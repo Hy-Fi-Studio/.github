@@ -6,7 +6,7 @@ Hy-Fi Studio is the leading Hytale plugin development platform, specializing in 
 
 All Hytale plugins and server mods are meticulously crafted for multiplayer Hytale servers, minigame networks, and professional gaming communities. Each Hytale plugin represents extensive development experience in creating polished gameplay mechanics, PvP systems, and custom game modes that server owners can confidently deploy to build premium Hytale server experiences.
 
-## Available Hytale Plugins & Server Mods
+## Planned Hytale Plugins & Server Mods
 
 | Plugin | Description | Keywords |
 |--------|-------------|----------|
@@ -56,14 +56,6 @@ Hy-Fi Studio plugins are specifically designed for:
 - **Private Community Servers** — Custom Hytale servers needing feature-rich game modes and reliable performance
 - **Hytale Server Networks** — Multi-server setups with cross-server compatibility and shared player data
 - **Gaming Communities** — Discord-integrated Hytale servers with custom minigames and competitive leaderboards
-
-## Getting Started with Hy-Fi Hytale Plugins
-
-1. **Browse Plugins** — Explore our complete collection of Hytale server plugins and minigame mods
-2. **Download & Install** — Easy installation process with comprehensive documentation for each plugin
-3. **Configure** — Customize game modes, maps, and mechanics using our intuitive configuration system
-4. **Launch** — Deploy professional Hytale minigames on your server within minutes
-5. **Support** — Access our developer support team for assistance and custom development
 
 ## Popular Hytale Server Setups
 
