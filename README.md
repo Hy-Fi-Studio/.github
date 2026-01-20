@@ -3,7 +3,7 @@
 Hy-Fi Studio is the leading Hytale plugin development platform, specializing in professional Hytale server plugins, custom Hytale mods, and multiplayer minigame solutions. Our expert team creates enterprise-grade Hytale BedWars plugins, SkyWars servers, LifeSteal mods, and complete minigame networks for the Hytale gaming community.
 
 ## Overview
-<img width="1911" height="996" alt="Screenshot 2026-01-18 162132" src="https://github.com/user-attachments/assets/ef7738e8-5e44-4592-89b9-42718bef5bc7" />
+<img width="1425" height="813" alt="image" src="https://github.com/user-attachments/assets/a608928b-76bf-41cc-91da-b8750a169a4f" />
 
 
 All Hytale plugins and server mods are meticulously crafted for multiplayer Hytale servers, minigame networks, and professional gaming communities. Each Hytale plugin represents extensive development experience in creating polished gameplay mechanics, PvP systems, and custom game modes that server owners can confidently deploy to build premium Hytale server experiences.
